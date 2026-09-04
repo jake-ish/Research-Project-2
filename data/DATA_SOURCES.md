@@ -20,10 +20,10 @@ Berners-Lee timing) used to build the feature tables.
 
 ## Mutation accumulation datasets
 
-| Dataset | Organism | Source | Accession / location |
+| Dataset | Organism | Source |
 |---|---|---|---|
-| Sharp et al. 2018 (wild-type MA) | *S. cerevisiae* | PNAS 115(22):E5046–E5055, doi:10.1073/pnas.1801040115 | Supplementary data |
-| Foster et al. 2015 (M2, K-12 MG1655) | *E. coli* | PNAS 112(44):E5990–E5999, doi:10.1073/pnas.1512136112 | Supplementary data |
+| Sharp et al. 2018 (wild-type MA) | *S. cerevisiae* | PNAS 115(22):E5046–E5055, doi:10.1073/pnas.1801040115 |
+| Foster et al. 2015 (M2, K-12 MG1655) | *E. coli* | PNAS 112(44):E5990–E5999, doi:10.1073/pnas.1512136112 |
 
 Datasets evaluated but excluded (see paper §2.3): Zhu et al. 2014
 (doi:10.1073/pnas.1323011111); Liu & Zhang 2019 (doi:10.1016/j.cub.2019.03.054);
