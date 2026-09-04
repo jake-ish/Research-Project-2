@@ -9,6 +9,10 @@ Two tests are run:
   built by re-allocating each mutation to a context-matched site (1,000 perms).
 - **Test 2 (stops):** observed stop-codon count vs the same context-matched null.
 
+**Note on the two tests:** The paper reports and relies on Test 1 only; all dataset
+decisions were based on these Ka/Ks results, Test 2 is retained here as an auxiliary
+check and its output is not used in the paper's analysis.
+
 ## Inputs
 - `--csv`   cleaned, gene-oriented mutation table (in `data/processed/`)
 - `--fasta` gene-oriented reference CDS FASTA (in `data/raw/`)
