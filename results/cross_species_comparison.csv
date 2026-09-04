@@ -1,0 +1,6 @@
+predictor,yeast_odds_ratio,yeast_p,ecoli_odds_ratio,ecoli_p,direction,significant_in_both
+log_protein,0.8821,0.1947,0.9994,0.9927,same,False
+log_rna,1.0135,0.924,1.346,0.3025,same,False
+gc_content,1.0742,0.9704,0.0082,0.0003,OPPOSITE,False
+essential,1.0282,0.8397,1.1625,0.4821,same,False
+log_length,18.0483,0.0,13.2757,0.0,same,True

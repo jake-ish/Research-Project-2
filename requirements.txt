@@ -1,0 +1,7 @@
+# Pin versions to what you actually used (pip freeze) before publishing.
+numpy
+pandas
+scipy
+statsmodels
+biopython
+matplotlib
